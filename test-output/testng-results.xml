@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T10:45:14 IST" name="Suite" finished-at="2024-06-27T10:47:40 IST" duration-ms="145474">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T10:45:14 IST" name="Test" finished-at="2024-06-27T10:47:40 IST" duration-ms="145474">
+      <class name="com.prjct.qa.testcases.LoginpageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:14 IST" name="setup" finished-at="2024-06-27T10:45:26 IST" duration-ms="11429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="crmlogotest()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:26 IST" name="crmlogotest" finished-at="2024-06-27T10:45:26 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmlogotest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:26 IST" name="teardown" finished-at="2024-06-27T10:45:26 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:26 IST" name="setup" finished-at="2024-06-27T10:45:31 IST" duration-ms="4721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:31 IST" name="loginTest" finished-at="2024-06-27T10:45:31 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:31 IST" name="teardown" finished-at="2024-06-27T10:45:31 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:31 IST" name="setup" finished-at="2024-06-27T10:45:36 IST" duration-ms="5100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginpagetitletest()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:36 IST" name="loginpagetitletest" finished-at="2024-06-27T10:45:36 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitletest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@34a3d150]" started-at="2024-06-27T10:45:36 IST" name="teardown" finished-at="2024-06-27T10:45:36 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.prjct.qa.testcases.LoginpageTest -->
+      <class name="com.prjct.qa.testcases.HomepageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:45:36 IST" name="setup" finished-at="2024-06-27T10:45:41 IST" duration-ms="4811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickVerifyFavoritesPageTitile()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:45:41 IST" name="clickVerifyFavoritesPageTitile" finished-at="2024-06-27T10:45:56 IST" duration-ms="15274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickVerifyFavoritesPageTitile -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:45:56 IST" name="teardown" finished-at="2024-06-27T10:45:56 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:45:56 IST" name="setup" finished-at="2024-06-27T10:46:02 IST" duration-ms="5354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInboundPageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:02 IST" name="verifyInboundPageTitle" finished-at="2024-06-27T10:46:10 IST" duration-ms="8083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInboundPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:10 IST" name="teardown" finished-at="2024-06-27T10:46:10 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:10 IST" name="setup" finished-at="2024-06-27T10:46:22 IST" duration-ms="12005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInventoryMaintainancePageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:22 IST" name="verifyInventoryMaintainancePageTitle" finished-at="2024-06-27T10:46:37 IST" duration-ms="14640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInventoryMaintainancePageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:37 IST" name="teardown" finished-at="2024-06-27T10:46:37 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:37 IST" name="setup" finished-at="2024-06-27T10:46:42 IST" duration-ms="5374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyOutboundPageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:42 IST" name="verifyOutboundPageTitle" finished-at="2024-06-27T10:46:52 IST" duration-ms="9669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOutboundPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:52 IST" name="teardown" finished-at="2024-06-27T10:46:52 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:52 IST" name="setup" finished-at="2024-06-27T10:46:57 IST" duration-ms="5640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySelfserviceReportingPageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:46:57 IST" name="verifySelfserviceReportingPageTitle" finished-at="2024-06-27T10:47:08 IST" duration-ms="11082" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Self Service Reporting] but found [SELF SERVICE REPORTING]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Self Service Reporting] but found [SELF SERVICE REPORTING]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.prjct.qa.testcases.HomepageTest.verifySelfserviceReportingPageTitle(HomepageTest.java:91)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelfserviceReportingPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:08 IST" name="teardown" finished-at="2024-06-27T10:47:09 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:09 IST" name="setup" finished-at="2024-06-27T10:47:14 IST" duration-ms="5450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUsersandGroupsPageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:14 IST" name="verifyUsersandGroupsPageTitle" finished-at="2024-06-27T10:47:25 IST" duration-ms="10743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersandGroupsPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:25 IST" name="teardown" finished-at="2024-06-27T10:47:25 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:25 IST" name="setup" finished-at="2024-06-27T10:47:31 IST" duration-ms="5816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUtilitiesPageTitle()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:31 IST" name="verifyUtilitiesPageTitle" finished-at="2024-06-27T10:47:40 IST" duration-ms="9082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUtilitiesPageTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6c6cb480]" started-at="2024-06-27T10:47:40 IST" name="teardown" finished-at="2024-06-27T10:47:40 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.prjct.qa.testcases.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
